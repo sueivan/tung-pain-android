@@ -1,0 +1,6 @@
+{
+  "pages": ["pages/index/index", "pages/detail/detail", "pages/about/about"],
+  "window": { "navigationBarTitleText": "董氏奇穴治痛方", "navigationBarBackgroundColor": "#284b43", "navigationBarTextStyle": "white", "backgroundColor": "#f4f2eb" },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

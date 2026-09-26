@@ -1,0 +1,8 @@
+{
+  "description": "董氏奇穴治痛方微信小程序",
+  "miniprogramRoot": "./",
+  "appid": "touristappid",
+  "projectname": "tung-pain",
+  "compileType": "miniprogram",
+  "setting": { "es6": true, "postcss": true, "minified": true }
+}
